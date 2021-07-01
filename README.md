@@ -1,3 +1,3 @@
 # Green-Squares
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rebecca-hallas)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rebecca-hallas&theme=vue)](https://git.io/streak-stats)
